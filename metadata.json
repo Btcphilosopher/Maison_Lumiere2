@@ -1,0 +1,6 @@
+{
+  "name": "Maison Lumière",
+  "description": "Maison Lumière Paris - High-end French perfumery experience with collections showcase and custom olfactory diagnostic quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
